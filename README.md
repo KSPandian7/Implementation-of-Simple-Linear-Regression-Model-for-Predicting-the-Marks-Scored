@@ -30,7 +30,7 @@ Developed by:    KULASEKARAPANDIAN K
 RegisterNumber:  212222240052
 ```
 
-```
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
